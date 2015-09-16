@@ -1,14 +1,3 @@
-#+TITLE: 歷世真仙體道通鑑後集 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:46:15.335062
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0310_000.txt][歷世真仙體道通鑑後集 0]]
- - [[file:KR5a0310_001.txt][歷世真仙體道通鑑後集 1]]
- - [[file:KR5a0310_002.txt][歷世真仙體道通鑑後集 2]]
- - [[file:KR5a0310_003.txt][歷世真仙體道通鑑後集 3]]
- - [[file:KR5a0310_004.txt][歷世真仙體道通鑑後集 4]]
- - [[file:KR5a0310_005.txt][歷世真仙體道通鑑後集 5]]
- - [[file:KR5a0310_006.txt][歷世真仙體道通鑑後集 6]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
